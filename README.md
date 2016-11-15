@@ -1,1 +1,3 @@
 # Demon-Odyssey-Game
+Overview:
+Demon odyssey is a 2D birds eye action RPG. the main goal is to explore the world, take over strongholds and collect demon crystals. The main character a High demon tasked with corrupting the world, in order to do this he must take over strongholds and collect demon crystals to advance you evil abilities. With each crystal you collect the stronger your character will get. Each crystal will give you one skill point to spend on the skill tree or stat bar. The skill tree will be split into two sections, Abilities and stats. The abilities will consist of both close and long ranged attacks as well as buffs such as regen and increased defence. The stat bars will consist health, defence, mana, special.
